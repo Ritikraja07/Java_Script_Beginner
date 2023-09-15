@@ -5,7 +5,7 @@ accountCity = "Jaipur"
 
 let accountState;
 
-// accountId = 2
+// accountId = 2 //not allowed
 
 accountEmail = "hc@hc.com"
 accountPassword = "2122121"
