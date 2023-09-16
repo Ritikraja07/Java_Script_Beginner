@@ -19,7 +19,7 @@ let str2 = " ritik"
 let str3 = str1 + str2
 console.log(str3);
 
-console.log("**********************************************");
+console.log("************************************************");
 
 console.log("1" + 2);
 console.log(1 + "2");
